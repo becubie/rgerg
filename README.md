@@ -149,5 +149,5 @@
 
 * **UX/UI Prototüüpimine:** Figma keskkonnas on loodud kõrge täpsusastmega (High-Fidelity) interaktiivne prototüüp, mis katab kõik 7 põhilist kasutajaliidese ekraani (alates otsingust kuni edukat ostu kinnitava leheni). Prototüüp võimaldab testida reaalset kasutajakogemust enne koodi kirjutamist.
 * **Disainiprotsesside efektiivsus (Konversioonivonnel / Conversion Funnel):**
-  * Disaini tõhusust mõõdetakse läbi kasutajatestide ja simuleeritud konversioonilehtede teekonna: *Otsing $\rightarrow$ Tulemuste valik $\rightarrow$ Andmete sisestamine $\rightarrow$ Maksmine*.
+  * Disaini tõhusust mõõdetakse läbi kasutajatestide ja simuleeritud konversioonilehtede teekonna: *Otsing → Tulemuste valik → Andmete sisestamine → Maksmine*.
   * *Kasutajamugavuse optimeerimine:* Prototüübi testimise käigus tuvastati, et reisijate andmete käsitsi sisestamine on peamine koht, kus kasutajad "tagasi tõmbuvad". Selle lahendamiseks integreeriti disaini dokumendituvastuse (OCR) funktsioon, mis täidab väljad automaatselt passi pildistamisel. See tehniline disainilahendus tõstab prognoositavat konversiooni andmete sisestamise etapis kuni 40%.
